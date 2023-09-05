@@ -1,4 +1,4 @@
 # DKYC-POC-BackEnd
 
-run npm install.
-run npm run start:dev.
+1. run npm install.
+2. run npm run start:dev.
